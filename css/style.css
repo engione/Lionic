@@ -217,7 +217,7 @@ body {
   position: relative;
   padding-top: 100px;
   padding-bottom: 150px;
-  background-image: url("/img/hero-bg.jpg");
+  background-image: url("../img/hero-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -566,7 +566,7 @@ body {
 }
 
 .contacts-item-address {
-  background-image: url('/img/location_on.svg');
+  background-image: url('../img/location_on.svg');
 }
 
 .contacts-item-call {
